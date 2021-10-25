@@ -1,3 +1,7 @@
 cambio1
 
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> origin/main
